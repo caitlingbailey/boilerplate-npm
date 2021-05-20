@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Caitlin Bailey",
-	"description": "Test package for NPM for freeCodeCamp"
+	"description": "Test package for NPM for freeCodeCamp",
+	"keywords": ["freecodecamp", "npm", "nodejs"]
 }
