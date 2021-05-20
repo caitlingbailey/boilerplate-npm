@@ -14,5 +14,6 @@
 	"author": "Caitlin Bailey",
 	"description": "Test package for NPM for freeCodeCamp",
 	"keywords": ["freecodecamp", "npm", "nodejs"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
